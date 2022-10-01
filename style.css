@@ -1,3 +1,8 @@
+@font-face {
+  font-family: druk;
+  src: url(./font/druk-Heavy.woff2);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -114,7 +119,7 @@ body {
   color: #c8102e;
   text-align: center;
   width: 60%;
-  font-family: Druk;
+  font-family: druk;
   line-height: 0.8;
 }
 
@@ -160,7 +165,7 @@ body {
 }
 
 #page2 > #left h1 {
-  font-family: Druk;
+  font-family: druk;
   position: absolute;
   top: 18%;
   font-size: 10vh;
@@ -179,7 +184,7 @@ body {
 }
 
 #page2 > #left button {
-  font-family: Druk;
+  font-family: druk;
   position: absolute;
   top: 62%;
   background-color: #000;
@@ -261,7 +266,7 @@ body {
   position: absolute;
   top: 1%;
   left: 0%;
-  font-family: Druk;
+  font-family: druk;
   font-size: 7vh;
 }
 
@@ -303,7 +308,7 @@ body {
   position: absolute;
   top: 1%;
   left: 0%;
-  font-family: Druk;
+  font-family: druk;
   font-size: 7vh;
 }
 
@@ -345,7 +350,7 @@ body {
   position: absolute;
   top: 1%;
   left: 0%;
-  font-family: Druk;
+  font-family: druk;
   font-size: 7vh;
 }
 
@@ -378,7 +383,7 @@ body {
 #page3 > #cover h1 {
   font-size: 45vh;
   text-align: center;
-  font-family: Druk;
+  font-family: druk;
   color: #c8102e;
   display: flex;
   justify-content: center;
@@ -470,7 +475,7 @@ body {
 }
 
 #page3 > #cover #center #right h3 {
-  font-family: Druk;
+  font-family: druk;
   font-size: 5vh;
   font-weight: 400;
   margin-top: 20px;
@@ -589,7 +594,7 @@ body {
 }
 
 #page5 h1 {
-  font-family: Druk;
+  font-family: druk;
   font-size: 20vh;
   line-height: 1;
   font-weight: 100;
@@ -739,7 +744,7 @@ body {
     width: 20%;
     background-color: black;
     color:white;
-    font-family: Druk;
+    font-family: druk;
     font-size: 2.5vh;
     letter-spacing: 1px;
     margin-right: 10px;
