@@ -9,7 +9,7 @@ Brand name : Laguntas
 
 ## Result
 
-https://xx-abhijeet-xx.github.io/Lagunitas-Beer_Ad/
+> https://lagunitas.netlify.app/
 
 
 ## 🛠 Skills
