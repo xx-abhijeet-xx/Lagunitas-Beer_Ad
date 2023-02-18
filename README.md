@@ -1,9 +1,11 @@
 
-# Laguntas
+# Lagunitas
 
-This ad is regarding the beer brand company which tells the customer about how old the brand is and also in how many flavours this brand produces the beer.
+Welcome to my ultimate beer-lover's paradise! I've created a one-of-a-kind project website that will leave you thirsting for more. I used cutting-edge technologies like GSAP, Locomotive, and Parallax to create an immersive experience that will transport you straight to a brewery.
 
-Brand name : Lagunitas
+But that's not all - I added a unique feature that will blow your mind. As you scroll down the page, the beer bottle moves with the swipe of your finger, almost as if you were holding it in your hand! And just when you think it can't get any better, the bottle magically fixes itself into the container as you continue to explore the website.
+
+Whether you're a casual drinker or a connoisseur of craft beer, my website has something for everyone. From the crisp, refreshing taste of a lager to the bold, complex flavors of an IPA, my site showcases the best beer in the world. So what are you waiting for? Grab a cold one and dive into my website today!
 
 
 
